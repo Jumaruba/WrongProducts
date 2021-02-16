@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  WRONG-PRODUCTS 
+  WrongProducts
 </h3> 
 <p align="center">Program in PROLOG SICstus to solve the Wrong Products problem </p>
 
